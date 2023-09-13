@@ -1,5 +1,5 @@
 # Moon-Pioneer-Clone
- A demo project inspired by the game "Moon Pioneer". It offers crafting and collecting mechanics. The game also uses stack and unlock system
+ A demo project inspired by the game "Moon Pioneer". It offers crafting and collecting mechanics. The game also uses stack and unlock system. 
 
 
 
